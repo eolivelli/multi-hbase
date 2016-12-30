@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<configuration> 
+    <property skipInDoc="true">
+        <name>hbase.defaults.for.version.skip</name>
+        <value>true</value>        
+    </property>
+</configuration>
